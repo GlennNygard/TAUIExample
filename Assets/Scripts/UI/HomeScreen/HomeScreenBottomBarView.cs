@@ -1,6 +1,6 @@
 using System;
-using PrimeTween;
 using UnityEngine;
+using PrimeTween;
 
 
 [RequireComponent(typeof(RectTransform))]
@@ -36,6 +36,8 @@ public class HomeScreenBottomBarView : MonoBehaviour {
 
         for(int i = 0; i < _itemList.Length; i++) {
             HomeScreenBottomBarItem item = _itemList[i];
+
+            item.ItemIndex = i;
 
             if(item.Locked) {
                 item.MainButton.onClick.AddListener(()=> {

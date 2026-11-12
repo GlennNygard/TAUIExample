@@ -12,6 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c23777c9608c464391d65d524e1b53e, type: 3}
   m_Name: BottomBarFiller02Data
   m_EditorClassIdentifier: 
-  MainIcon: {fileID: 21300000, guid: 9c957269997da40c5b5d62545c0ea46a, type: 3}
-  MainText: 
+  MainIcon: {fileID: 21300000, guid: 17692f355ab894497851616433d20f18, type: 3}
+  LocString:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   Locked: 1
+  references:
+    version: 2
+    RefIds: []

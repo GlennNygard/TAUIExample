@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0333dd144c54e456ea80d2fb7912e972, type: 3}
   m_Name: InventoryCoinsData
   m_EditorClassIdentifier: 
-  MainIcon: {fileID: 21300000, guid: cb2ca0895d1714236946d39e0335ab71, type: 3}
+  MainIcon: {fileID: 21300000, guid: 8aa8c29022ceb488782ce2e5096a77f8, type: 3}
   LabelText: 2,850
   IconText: 
-  CanAdd: 1
+  CanAdd: 0

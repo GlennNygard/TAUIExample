@@ -19,15 +19,15 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 3944049795072
-    m_Localized: Shop
+    m_Localized: 01
     m_Metadata:
       m_Items: []
   - m_Id: 4077348970496
-    m_Localized: Home
+    m_Localized: 02
     m_Metadata:
       m_Items: []
   - m_Id: 4132382433280
-    m_Localized: Map
+    m_Localized: 03
     m_Metadata:
       m_Items: []
   references:

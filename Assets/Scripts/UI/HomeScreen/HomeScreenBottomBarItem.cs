@@ -33,6 +33,9 @@ public class HomeScreenBottomBarItem : MonoBehaviour {
     [HideInInspector]
     public Button MainButton;
 
+    [HideInInspector]
+    public int ItemIndex;
+
     public string ButtonLabel {
         get {return _mainItemText.text;}
     }
